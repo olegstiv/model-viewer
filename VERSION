@@ -1,0 +1,31 @@
+commit cee02f7c7ec5006a13e2d94035b9ebc73d8af43b
+Author: Patrick Härtl <haertl@ux3d.io>
+Date:   Tue Feb 16 17:50:35 2021 +0100
+
+    Add gltf sample viewer (#1962)
+    
+    * WIP add gltf sample viewer
+    
+    * Add index.html
+    
+    * Further integration (renderer already running)
+    
+    * Fix rotations
+    
+    * Fix clearcolor and zoom
+    
+    * Change ACES parameter
+    
+    * Use gltf-viewer from npm
+    
+    * Add package-lock
+    
+    * Update sample viewer and resolve issues
+    
+    * Update package-lock
+    
+    * Disable environment blur
+    
+    * Upload goldens
+    
+    * Update version of sample viewer
